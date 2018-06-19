@@ -1,8 +1,9 @@
 # RossmanStores_dataScience
 a repository to showcase the solution of the test fror intern <br>
-The main file is solution.ipynb.that alone is sufficeint for the project. ### The 'Train.csv' is missing from this upload becasue it was too large <br>
+The main file is 'solution.ipynb' .that alone is sufficeint for the project. <br>
+##### The 'Train.csv' and 'randomForest_model' file is missing from this upload becasue it was too large <br>
 besides the file, the two models that were computed are uploaded for every one to study <br>
-A 'model_loader' file is created as well for anyone to play around after loading the models. <br>
+A 'model_loader' file can be created as well to reuse models. <br>
 
 # Notes:
 rmspe in Random Forest on training set: 0.925059452334956 <br>
