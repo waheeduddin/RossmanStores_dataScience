@@ -9,4 +9,6 @@ rmspe in Random Forest: 4.018013845088807 <br>
 The random forest model file '.sav' was not uploaded becasue of its size <br>
 I was unable to make a seperate class for the helper functions <br>
 I tried the results of many models, the best and in time constructed model is part of the solution fille and uploaded <br>
+In the future a time series analysis could be done just as I have demonstrated here <br>
+https://github.com/waheeduddin/Exploratory-data-analysis-and-forecasting-for-retail-store-data/blob/master/ARIMAanalysis.R
 
