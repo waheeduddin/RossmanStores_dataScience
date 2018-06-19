@@ -5,7 +5,7 @@ besides the file, the two models that were computed are uploaded for every one t
 A 'model_loader' file is created as well for anyone to play around after loading the models. <br>
 
 # Notes:
-rmspe in Random Forest: 0.925059452334956 <br>
+rmspe in Random Forest on training set: 0.925059452334956 <br>
 The random forest model file '.sav' was not uploaded becasue of its size <br>
 I was unable to make a seperate class for the helper functions <br>
 I tried the results of many models, the best and in time constructed model is part of the solution fille and uploaded <br>
