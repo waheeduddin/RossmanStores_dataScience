@@ -1,5 +1,5 @@
 # RossmanStores_dataScience
-a repository to showcase the solution of the test fror intern <br>
+a repository to showcase the solution of data science problems with respect ot time series data <br>
 The main file is 'solution.ipynb' .that alone is sufficeint for the project. <br>
 ##### The 'Train.csv' and 'randomForest_model' file is missing from this upload becasue it was too large <br>
 besides the file, the two models that were computed are uploaded for every one to study <br>
